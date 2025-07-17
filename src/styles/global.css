@@ -2,10 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
-  font-family: "Lora";
-}
-
 body {
   background-color: #242424;
+  font-family: "Lora";
 }
